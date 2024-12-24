@@ -108,7 +108,7 @@ Resources:
               <title>::: CloudFormation Template :::</title>
           </head>
           <body>
-              <h1>This is working!</h1>
+              <h1>This is finally working</h1>
               <h3>Authored by Neil Everette</h3>
               <p>This is my new CloudFormation template</p>
           </body>
